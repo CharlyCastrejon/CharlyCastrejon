@@ -3,15 +3,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=charlycastrejon&label=Profile%20views&color=0e75b6&style=flat" alt="charlycastrejon" /> </p>
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently learning: **Flutter**
 
-- 👨‍💻 All of my projects are available at [https://github.com/CharlyCastrejon](https://github.com/CharlyCastrejon)
+- 👨‍💻 All of my projects are available at: [https://github.com/CharlyCastrejon](https://github.com/CharlyCastrejon)
 
-- 💬 Ask me about **Javascript, C#, Python, Swift**
+- 💬 Ask me about: **Javascript, C#, Python, Java**
 
-- 📫 How to reach me **carlos@ruizcastrejon.dev**
+- 📫 How to reach me: **carlos@ruizcastrejon.dev**
 
-- ⚡ Fun fact **I never stop learning**
+- ⚡ Fun fact: **I never stop learning**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
