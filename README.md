@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=charlycastrejon&label=Profile%20views&color=0e75b6&style=flat" alt="charlycastrejon" /> </p>
 
-- 🌱 I’m currently learning: **Flutter**
+- 🌱 I’m currently learning: **Data Analisys**
 
 - 👨‍💻 All of my projects are available at: [https://github.com/CharlyCastrejon](https://github.com/CharlyCastrejon)
 
