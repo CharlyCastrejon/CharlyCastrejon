@@ -3,8 +3,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=charlycastrejon&label=Profile%20views&color=0e75b6&style=flat" alt="charlycastrejon" /> </p>
 
-- 🌱 I’m currently learning: **Data Analisys**
-
+- 🌱 I’m currently learning: **Artificial Intelligence**
+  
+- 🙇‍♂️ I'm currently taking the course: [Google AI Essentials](https://www.coursera.org/learn/google-ai-essentials)
+  
 - 👨‍💻 All of my projects are available at: [https://github.com/CharlyCastrejon](https://github.com/CharlyCastrejon)
 
 - 💬 Ask me about: **Javascript, C#, Python, Java**
