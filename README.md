@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=charlycastrejon&label=Profile%20views&color=0e75b6&style=flat" alt="charlycastrejon" /> </p>
 
-- 🌱 I’m currently learning: **Artificial Intelligence**
+- 🌱 I’m currently learning: **Data Analytics**
   
-- 🙇‍♂️ I'm currently taking the course: [Google AI Essentials](https://www.coursera.org/learn/google-ai-essentials)
+- 🙇‍♂️ I'm currently taking the course: [Google Data Analytics Professional Certificate](https://www.coursera.org/professional-certificates/google-data-analytics)
   
 - 👨‍💻 All of my projects are available at: [https://github.com/CharlyCastrejon](https://github.com/CharlyCastrejon)
 
