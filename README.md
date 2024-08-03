@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Carlos Alberto Ruiz Castrejon</h1>
+<h1 align="center">Hi 👋, I'm Carlos Alberto Ruiz Castrejón</h1>
 <h3 align="center">A passionate software developer and professor from Mexico</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=charlycastrejon&label=Profile%20views&color=0e75b6&style=flat" alt="charlycastrejon" /> </p>
